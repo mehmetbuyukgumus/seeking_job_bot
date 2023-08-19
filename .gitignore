@@ -153,5 +153,5 @@ dmypy.json
 cython_debug/
 
 .DS_Store
-.key_words_indeed.py
-.key_words_linkedin.py
+indeed/key_words_indeed.py
+linkedin/key_words_linkedin.py
