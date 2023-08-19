@@ -1,7 +1,7 @@
 key_words = {
     "job_title" : "Python junior",
-    "mail_adress" : "mehmetbuyukgumus@yahoo.com",
-    "password" : "B-612kpc",
+    "mail_adress" : "YOURADRESS",
+    "password" : "YOUR PASSWORD",
     "job" : "Python Junior",
     "City1" : "Paris",
     "City2" : "Strasbourg"
